@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asafeCarvalho
-- 👀 I’m interested in computer hardware and algorithms
-- 🌱 I’m currently learning html and css 
+- 👀 I’m interested in Embedded Systems, DevOps and Artificial intelligence
 - 😄 Pronouns: he/im
 - ⚡ Fun fact: I like to run 
 
